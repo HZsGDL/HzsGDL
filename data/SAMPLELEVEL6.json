@@ -1,0 +1,24 @@
+{
+    "id": 4444,
+    "name": "bloodbath",
+    "author": "riot",
+    "creators": ["kavics","michigun","onekletGD","crack"],
+    "verifier": "divadGD",
+    "verification": "https://www.youtube.com/watch?v=7vWUkNb1j54",
+    "percentToQualify": "70",
+    "password": "Free To Copy",
+    "records": [ 
+        {"user": "onekletGD",
+            "link": "https://www.youtube.com/watch?v=btYXz7YAoi4",
+            "percent": 100,
+            "hz": 44
+        }
+            
+    {"user": "habzsolt",
+            "link": "https://www.youtube.com/watch?v=xvFZjo5PgG0",
+            "percent": 100,
+            "hz":-4
+
+    }
+    ]
+}
