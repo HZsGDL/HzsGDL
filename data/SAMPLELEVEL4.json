@@ -1,1 +1,11 @@
-
+{
+    "id": 4444,
+    "name": "artificial ascent",
+    "author": "viprin",
+    "creators": ["hinds","michigun","habzsolt"],
+    "verifier": "habzsolt",
+    "verification": "https://www.youtube.com/watch?v=URwPErFdH7c",
+    "percentToQualify": "50",
+    "password": "Free To Copy",
+    "records": [
+    ]
