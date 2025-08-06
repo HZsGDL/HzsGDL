@@ -1,13 +1,13 @@
 {
-    "id": 57436521,
+    "id": 4444,
     "name": "generic wave",
     "author": "pennutoh",
-    "creators": ["pennutoh", "enlex"],
-    "verifier": "Habzsolt",
+    "creators": ["enlex","pennutoh"],
+    "verifier": "habzsolt",
     "verification": "https://www.youtube.com/watch?v=DtLMq5e8Z6A",
-    "percentToQualify": 65,
-    "password": "Not Copyable",
-    "records": [  
+    "percentToQualify": "67",
+    "password": "Free To Copy",
+    "records": [
     ]
 }
        
