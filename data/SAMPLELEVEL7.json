@@ -1,1 +1,12 @@
-
+{
+    "id": 4444,
+    "name": "quantum processing",
+    "author": "roit",
+    "creators": ["hinds","michigun","habzsolt"],
+    "verifier": "habzsolt",
+    "verification": "https://www.youtube.com/watch?v=P9iazmh05LM",
+    "percentToQualify": "44",
+    "password": "Free To Copy",
+    "records": [
+    ]
+}
