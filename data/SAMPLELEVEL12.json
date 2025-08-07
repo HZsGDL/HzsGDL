@@ -1,0 +1,17 @@
+{
+    "id": 4444,
+    "name": "crowd control",
+    "author": "movietheaters",
+    "creators": ["deadlox","endlevel","ewop"],
+    "verifier": "onekletGD",
+    "verification": "https://www.youtube.com/watch?v=ufsIThuaAAI",
+    "percentToQualify": "70",
+    "password": "Free To Copy",
+    "records": [ 
+        {"user": "divadGD",
+            "link": "https://www.youtube.com/watch?v=nMrm4xEoy_8&t=75s",
+            "percent": 100,
+            "hz": 4678787898785674
+        }
+            ]
+}
