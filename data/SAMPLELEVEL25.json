@@ -1,0 +1,23 @@
+{
+    "id": 4444,
+    "name": "acu",
+    "author": "neigefu",
+    "creators": ["neigefu"],
+    "verifier": "divadGD",
+    "verification": "https://www.youtube.com/watch?v=IvpXhdLi4wo",
+    "percentToQualify": "70",
+    "password": "Free To Copy",
+    "records": [ {"user": "onekletGD",
+            "link": "https://www.youtube.com/watch?v=B-WJh6TFFaI",
+            "percent": 100,
+            "hz": 7
+        },  
+        {"user": "habzsolt",
+            "link": "https://www.youtube.com/watch?v=nVfpWpUYs4o",
+            "percent": 100,
+            "hz": 4444444444444444444
+        }
+            ]
+    
+}
+       
